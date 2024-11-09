@@ -1,0 +1,56 @@
+	Adonis123	Adonis@4567	Maintenance
+	Akisa123	Kay%278		Warden
+	Antoni123	Ant%55		Student
+	Bond123		Bon@007		Student
+'Cebisa123', 'Ncg#69', 'Warden'
+'Devy123', 'jones&65', 'Student'
+'Earl123', 'Eart#77', 'Student'
+'Folokhwe123', 'Fok&56', 'Student'
+'Funi123', 'Wow@42', 'Warden'
+'Gcwini123', 'Gigi@33', 'Student'
+'Governor123', 'Gov$90', 'Student'
+'Hadebe123', 'Thuus%44', 'Secretary'
+'Hanson123', 'Hani%98', 'Student'
+'John123', 'Shhh#43', 'Student'
+'Kakia123', 'cr&889', 'Student'
+'Kinderton1213', 'Kind%67', 'Student'
+'kthatha123', 'K@sm453', 'Maintenance'
+'Levis123', 'Heat&88', 'Maintenance'
+'Liyema123', 'Ado^43', 'Warden'
+'Lolwa123', 'Lola$56', 'Student'
+'Lwazi123', 'Lwzz#45', 'Secretary'
+'Mali123', 'G8%mal', 'Maintenance'
+'Mathe123', 'Q&w2s', 'Maintenance'
+'MaXhosa123', 'Xhosa$#6', 'Maintenance'
+'Mtsenga123', 'Mits&98', 'Secretary'
+'Owens123', 'The$66', 'Student'
+'Oyama123', 'Phil!@253', 'Warden'
+'Phantsi123', 'Pat#34', 'Student'
+'Robert123', 'No@67', 'Warden'
+'Ruth123', 'Wi@72', 'Warden'
+'Sasol123', 'Aol#467', 'Maintenance'
+'Saul123', 'paul%767', 'Student'
+'Simo123', 'Dlala%23', 'Warden'
+'Smurts123', 'Smurt$45', 'Maintenance'
+'Somdala123', 'Somi%76', 'Student'
+'Somntu123', 'Som&77', 'Student'
+'Stein123', 'Stein@333', 'Maintenance'
+'Stena123', '123&Stena', 'Maintenance'
+'Tenza123', 'Ten#532', 'Warden'
+'Themba123', 'Jam!13', 'Warden'
+'Thompson123', 'Jery%34', 'Student'
+'Tsi123', 'Tasv!99', 'Maintenance'
+'Umpton123', 'Man$334', 'Student'
+'Usa123', 'April@139', 'Warden'
+'Vena123', 'Ena^7', 'Student'
+'Wenzi123', 'Dya%72', 'Warden'
+'Williams123', 'Bill&345', 'Student'
+'Xylon123', 'Xixi$55', 'Student'
+'Yatheka123', 'Mar%90', 'Student'
+'Zealer123', 'Zee%66', 'Student'
+anel459 , nonhlaNhla123@  Student
+
+
+
+
+
