@@ -1,0 +1,175 @@
+/* HEADER AND FOOTER CSS PLEASE DO NOT TOUCH */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#prfico {
+    position: absolute;
+    top: -90px;
+    right: 0;
+    width: 50px;
+    height: auto;
+}
+
+.nav_itm {
+    font-size: 20px;
+    width: auto;
+    color: black;
+    text-decoration: none;
+}
+
+.foot_nav_itm {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    padding-right: 5px;
+}
+
+header {
+    position: relative;
+    width: auto;
+    background-color: #FBDADE;
+    height: 120px;
+}
+
+#logoimg {
+    float: left;
+    width: 80px;
+    height: auto;
+    padding-top: 10px;
+}
+
+#profileimg {
+    position: absolute;
+    width: 50px;
+    height: auto;
+    right: 0;
+    bottom: 20px;
+}
+
+#maintlt {
+    position: absolute;
+    bottom: 15px;
+    text-align: left;
+    margin-top: 0;
+    padding-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+
+}
+
+#titlesec {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.spacer {
+    color: white;
+}
+
+footer {
+    
+    position: absolute;
+
+    width: 100%;
+    margin: 0px;
+    vertical-align: bottom;
+    background-color: #FBDADE;
+}
+
+#foottable {
+    width: 100%;
+    bottom: 0;
+}
+
+.fttbltd {
+    vertical-align: bottom;
+}
+
+#footimg {
+    bottom: 0;
+    width: 80px;
+    height: auto;
+}
+
+#foottxt {
+    bottom: 0;
+    margin-bottom: 0;
+}
+
+#x {
+    text-align: center;
+    width: 300px;
+    line-height: 0.8;
+}
+
+#icon {
+    width: 80px;
+    height: auto;
+
+}
+
+
+
+
+#AHeader{
+    text-decoration: underline;
+    text-align: center;
+    color:#242F40;
+}
+
+#myChart { 
+    background-color: white; 
+    text-align:center;
+    border-radius: 20px;
+    width:100%; 
+    max-width:300px; 
+    height:250px;
+    margin: 10px;
+    
+    
+}
+
+#ticket{
+     font-size:40px;
+     color:#fbdade;
+}
+
+.container{
+    display: flex  ;
+    align-items: center;
+    justify-content: center;
+}
+
+#container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picbt{
+    float:right;
+    margin-left: auto;
+    }
+    
+    
+    .tester{
+        position: relative;
+        margin-top:10px;
+    
+    
+    }
