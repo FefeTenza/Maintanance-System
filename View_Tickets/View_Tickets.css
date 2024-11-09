@@ -1,0 +1,209 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h1{
+    font-size: 28px;
+    color: #080808;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.display {
+    border-collapse: collapse;
+    width: 90%;
+    height: auto;
+    margin: 25px auto; 
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); 
+    border-radius: 8px; 
+    overflow: hidden; 
+    
+
+}
+
+.display thead tr {
+    background-color: #FBDADE; 
+    color: black; 
+    text-align: left; 
+}
+
+.display th, .display td {
+    padding: 12px 15px;
+   
+}
+
+.display td {
+    background-color: rgba(238, 234, 234, 0.8); 
+}
+
+.display th {
+    background-color: #FBDADE; 
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.nav_itm {
+    font-size: 20px;
+    width: auto;
+    color: black;
+    text-decoration: none;
+}
+
+.foot_nav_itm {
+    text-decoration: none;
+    color: black;
+} 
+
+a {
+    padding-right: 5px;
+}
+
+header {
+    /* position: relative;
+    width: auto;
+    background-color: #FBDADE;
+    height: 120px; */
+    position: relative;
+    width: 100%; /* Set width to 100% */
+    background-color: #FBDADE;
+    height: 120px; /* This can be adjusted as needed */
+    margin: 0; /* Remove default margins */
+    padding: 0;
+}
+
+#logoimg {
+    float: left;
+    width: 80px;
+    height: auto;
+    padding-top: 10px;
+}
+
+#profileimg {
+    position: absolute;
+    width: 50px;
+    height: auto;
+    right: 0;
+    bottom: 20px;
+}
+
+#maintlt {
+    position: absolute;
+    bottom: 15px;
+    text-align: left;
+    margin-top: 0;
+    padding-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+
+}
+
+#titlesec {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.spacer {
+    color: white;
+}
+
+#container{
+    min-height: 70vh;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin: 0px;
+    vertical-align: bottom;
+    background-color: #FBDADE;
+}
+
+#foottable {
+    width: 100%;
+    bottom: 0;
+}
+
+.fttbltd {
+    text-align:left ;
+    vertical-align: bottom;
+    padding: 0;
+}
+
+#footimg {
+    bottom: 0;
+    width: 80px;
+    height: auto;
+    
+}
+
+#foottxt {
+    bottom: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+#x {
+    text-align: center;
+    width: 300px;
+    line-height: 0.8;
+    padding: 0;
+}
+
+#icon {
+    width: 80px;
+    height: auto;
+
+}
+
+
+.footerh{
+    font-size: 1.17em;
+    font-style:normal;
+    color:black;
+}
+
+
+h1{
+  font-size: x-large;  
+}
+
+.tester{
+    margin-top:10px;
+    float:right;
+    
+
+}
+
+
+#prfico {
+    position: absolute;
+    top: -90px;
+    right: 0;
+    width: 50px;
+    height: auto;
+}
+
+#spacer {
+    color: white;
+    font-size: 40px;
+    margin-top: 0;
+}
+
+
+
